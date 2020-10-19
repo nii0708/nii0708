@@ -1,8 +1,6 @@
 ### Hello 👋 👋 👋
 I'm Taher, Nadhif a wandering spider.
 So...
-<!--
-**nii0708/nii0708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I'm currently working on some school stuff and cultural analysis using youtube API
       (How youtube trend from many given countries influencing each other in given period of time, how such system evolate within time)
