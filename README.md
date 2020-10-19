@@ -12,7 +12,7 @@ So...
    - policy making
    - disease transmission
    - and many more
-   "\n" or anything as long as it can be perceivable (in literal or non-literal sense)
+   - or anything as long as it can be perceivable (in literal or non-literal sense)
 - 🤔 I’m looking for help with ... everything
 **Yeah... everything.**
 What can a human learn and do within short lifespan????
