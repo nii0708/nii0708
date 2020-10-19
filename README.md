@@ -23,7 +23,7 @@ c'mon we need cure for aging
 - ⚡ Fun fact: i can drink 600 ml of water in 9 s
 
 Here is my linkedin link:
-https://www.linkedin.com/feed/
+https://www.linkedin.com/in/muhammad-nadhif-taher-ahmad-b668881b9
 
 PS:
 not giving full information because personal anxiaty. 
