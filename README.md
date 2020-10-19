@@ -7,12 +7,12 @@ So...
 - 🌱 I’m currently learning ocenography, philosophy, future studies, and machine learning (starting from the basic itself: the math)
 - 👯 I’m looking to collaborate on social network analysis related project
       which is can be related to many things, such as:
-      - climate change
-      - cultural analysis
-      - policy making
-      - disease transmission
-      - and many more
-      or anything as long as it can be perceivable (in literal or non-literal sense)
+   - climate change
+   - cultural analysis
+   - policy making
+   - disease transmission
+   - and many more
+   or anything as long as it can be perceivable (in literal or non-literal sense)
 - 🤔 I’m looking for help with ... everything
 **Yeah... everything.**
 What can a human learn and do within short lifespan????
