@@ -1,2 +1,2 @@
 ### Hello 👋 👋 👋
-I'm Taher, Nadhif a wandering spider.
+I'm Taher, Nadhif, a wandering spider.
